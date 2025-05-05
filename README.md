@@ -1,1 +1,2 @@
-This is mcp crash course
+This is mcp crash course by krish naik
+
